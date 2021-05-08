@@ -8,10 +8,8 @@
  To.do é um dos desafios do capítulo 1 da trilha de ReactJs do Ignite da <a href="https://rocketseat.com.br/">Rocketseat</a>
 </p>
 
-<p align="center">Você pode visualizar o resultado do projeto nesse <a href="https://podcastnextjs.vercel.app/">link</a>.</p>
-
 <h4 align="center">
-	🚧 Concluída 🚀 🚧
+	🚧 Concluído 🚀 🚧
 </h4>
 
 Tabela de conteúdos
