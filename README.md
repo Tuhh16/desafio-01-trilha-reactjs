@@ -27,8 +27,8 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-<p>O projeto tem como objetivo criar uma aplicação para treinar o que aprendemos até agora no ReactJS.</p>
-<p>Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.</p>
+<p>O projeto é uma todo list, onde conseguimos adicionar tarefas, marca como concluída e remover tarefas através da manipulação de estado.</p>
+<p>O principal objetivo desse desafio é treinar um pouco mais a manipulação do estado no React.</p>
 
 ## 🎨 Layout
 
