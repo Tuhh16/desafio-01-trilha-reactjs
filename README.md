@@ -27,7 +27,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-<p>O projeto é uma todo list, onde conseguimos adicionar tarefas, marca como concluída e remover tarefas através da manipulação de estado.</p>
+<p>O projeto é uma lista de tarefas, onde conseguimos adicionar tarefas, marca como concluída e remover tarefas através da manipulação de estado.</p>
 <p>O principal objetivo desse desafio é treinar um pouco mais a manipulação do estado no React.</p>
 
 ## 🎨 Layout
