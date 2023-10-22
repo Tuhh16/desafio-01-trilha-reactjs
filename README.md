@@ -85,8 +85,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[ReactJs](https://pt-br.reactjs.org/)**
 -   **[TypeScript](https://www.typescriptlang.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/Tuhh16/desafio-01-trilha-reactjs/blob/master/package.json)
-
 ---
 
 ## 📝 Licença
